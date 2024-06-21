@@ -1,4 +1,4 @@
-### Olá, Nilton Barros aqui! 👨‍💻
+### Olá, Pedro aqui! 👨‍💻
 
 Sou estudante de desenvolvimento Kotlin para Android e apaixonado por tecnologia.
 ### 👀 Estou a procura de uma vaga no momento 👀
