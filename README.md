@@ -1,6 +1,6 @@
 ### Olá, Pedro aqui! 👨‍💻
 
-Sou estudante de desenvolvimento Kotlin para Android e apaixonado por tecnologia.
+Sou técnico em desenvolvimento de sistemas pelo SENAI.
 ### 👀 Estou a procura de uma vaga no momento 👀
 
 ## ⚡ Minhas Habilidades
@@ -12,5 +12,5 @@ Sou estudante de desenvolvimento Kotlin para Android e apaixonado por tecnologia
 - Scrum
 
 ### 📫 Entre em contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/android-developer/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/android/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-ferreira25/)
+
